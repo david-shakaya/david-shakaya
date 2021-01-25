@@ -3,15 +3,15 @@
 - 🔭 I’m currently working on many interesting things
 - 📫 How to reach me: devidoz666@gmail.com
 
-<img align="center" alt="GitHub" width="100px" src="./images/2git.png" />
+<img align="left" alt="GitHub" width="100px" src="./images/2git.png" />
 
-<img align="center" alt="Terminal" width="100px" src="./images/3git.png" />
+<img align="left" alt="Terminal" width="100px" src="./images/3git.png" />
 
-<img align="center" alt="Visual Studio Code" width="100px" src="./images/4git.png" />
+<img align="left" alt="Visual Studio Code" width="100px" src="./images/4git.png" />
 
-<img align="center" alt="Visual Studio Code" width="100px" src="./images/5git.png" />
+<img align="left" alt="Visual Studio Code" width="100px" src="./images/5git.png" />
 
-<img align="centr" alt="Git" width="100px" src="./images/1git.png" />
+<img align="left" alt="Git" width="100px" src="./images/1git.png" />
 <br>
 
 ### My stack and tools
