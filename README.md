@@ -1,13 +1,18 @@
 ## I'm a frontend junior developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on many interesting things
+- 📫 How to reach me: devidoz666@gmail.com
+
+<img align="left" alt="GitHub" width="200px" src="./images/2git.png" />
+
+<img align="left" alt="Terminal" width="200px" src="./images/3git.png" />
+
+<img alt="Visual Studio Code" width="200px" src="./images/4git.png" />
+
+<img alt="Visual Studio Code" width="200px" src="./images/5git.png" />
+
+<img align="left" alt="Git" width="200px" src="./images/1git.png" />
+<br>
 
 ### My stack and tools
 
@@ -27,9 +32,9 @@
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
-<img align="left" alt="handlbar" width="32px" src="https://t1.daumcdn.net/cfile/tistory/234AEC43580D548829" />
+<img align="left" alt="handlbar" width="32px" src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" />
 
-<img align="left" alt="MySQL" width="32px" src="https://assets.getpop.org/wp-content/plugins/getpop-processors/img/documentation/logos/handlebars.png" />
+<img align="left" alt="MySQL" width="32px" src="https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png" />
 
 <img align="left" alt="PostgreSQL" width="32px" src="https://pngicon.ru/file/uploads/photoshop.png" />
 
