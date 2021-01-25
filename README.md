@@ -58,12 +58,12 @@
 
 ### My project
 
-<img align="left" alt="GitHub" width="110px" src="./images/2git.png" />
+<img align="left" alt="GitHub" width="110px" src="./images/1q.png" />
 
-<img align="left" alt="Terminal" width="110px" src="./images/3git.png" />
+<img align="left" alt="Terminal" width="110px" src="./images/2q.png" />
 
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/4git.png" />
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/3q.jpg" />
 
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/5git.png" />
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/q4.png" />
 
-<img align="left" alt="Git" width="110px" src="./images/1git.png" />
+<img align="left" alt="Git" width="110px" src="./images/q6.png" />
