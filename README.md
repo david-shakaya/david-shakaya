@@ -56,14 +56,19 @@
 
 <br>
 
-### My project
+### My projects
 
-<img align="left" alt="GitHub" width="110px" src="./images/1q.png" />
+<img align="left" alt="game-air" width="110px" src="./images/game-air.png" />
 
-<img align="left" alt="Terminal" width="110px" src="./images/2q.png" />
+<a> game-frog
+<img align="left" alt="game-frog" width="110px" src="./images/game-frog.png" />
 
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/3q.jpg" />
+<a/>
+<a>Shopping cart application
+<img align="left" alt="shopping cart" width="110px" src="./images/2q.png" title="Shopping cart application"/>
+<a/>
 
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/q4.png" />
+<img align="left" alt="IMG finder" width="110px" src="./images/q4.png" title="Image search application" />
 
-<img align="left" alt="Git" width="110px" src="./images/q6.png" />
+<img align="left" alt="Web site" width="110px"  src="./images/q6.png" />
+<!-- Image search application -->
