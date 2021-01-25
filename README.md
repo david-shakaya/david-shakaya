@@ -3,18 +3,6 @@
 - 🔭 I’m currently working on many interesting things
 - 📫 How to reach me: devidoz666@gmail.com
 
-<div align="center">
-<img align="left" alt="GitHub" width="110px" src="./images/2git.png" />
-
-<img align="left" alt="Terminal" width="110px" src="./images/3git.png" />
-
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/4git.png" />
-
-<img align="left" alt="Visual Studio Code" width="110px" src="./images/5git.png" />
-
-<img align="left" alt="Git" width="110px" src="./images/1git.png" />
-<div/>
-
 ### My stack and tools
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -65,3 +53,17 @@
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
+
+<br>
+
+### My project
+
+<img align="left" alt="GitHub" width="110px" src="./images/2git.png" />
+
+<img align="left" alt="Terminal" width="110px" src="./images/3git.png" />
+
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/4git.png" />
+
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/5git.png" />
+
+<img align="left" alt="Git" width="110px" src="./images/1git.png" />
