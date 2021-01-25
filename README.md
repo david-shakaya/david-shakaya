@@ -58,17 +58,29 @@
 
 ### My projects
 
-<img align="left" alt="game-air" width="110px" src="./images/game-air.png" />
+📌 Just click on the logo and you will be taken to the project repository.
 
-<a> game-frog
-<img align="left" alt="game-frog" width="110px" src="./images/game-frog.png" />
-
+<a src="">
+<img align="left" alt="game-air" width="110px" src="./images/game-air.png"
+title="game Air balls" />
 <a/>
-<a>Shopping cart application
+
+<a src="">
+<img align="left" alt="game-frog" width="110px" src="./images/game-frog.png"
+ title="game Frog" />
+<a/>
+
+<a src="">
 <img align="left" alt="shopping cart" width="110px" src="./images/2q.png" title="Shopping cart application"/>
 <a/>
 
+<a src="">
 <img align="left" alt="IMG finder" width="110px" src="./images/q4.png" title="Image search application" />
+<a/>
 
-<img align="left" alt="Web site" width="110px"  src="./images/q6.png" />
+<a src="">
+<img align="left" alt="Web site" width="110px"  src="./images/q6.png"
+ title="Web site" />
+
+<a/>
 <!-- Image search application -->
