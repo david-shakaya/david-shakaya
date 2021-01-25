@@ -51,8 +51,7 @@
 <div/>
 
 <style>
-#flex {display: flex}
-
+#flex {display:flex}
 </style>
 
 <!-- <a href="https://github.com/anuraghazra/convoychat">
