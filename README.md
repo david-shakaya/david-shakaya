@@ -3,16 +3,17 @@
 - 🔭 I’m currently working on many interesting things
 - 📫 How to reach me: devidoz666@gmail.com
 
-<img align="left" alt="GitHub" width="100px" src="./images/2git.png" />
+<div align="center">
+<img align="left" alt="GitHub" width="110px" src="./images/2git.png" />
 
-<img align="left" alt="Terminal" width="100px" src="./images/3git.png" />
+<img align="left" alt="Terminal" width="110px" src="./images/3git.png" />
 
-<img align="left" alt="Visual Studio Code" width="100px" src="./images/4git.png" />
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/4git.png" />
 
-<img align="left" alt="Visual Studio Code" width="100px" src="./images/5git.png" />
+<img align="left" alt="Visual Studio Code" width="110px" src="./images/5git.png" />
 
-<img align="left" alt="Git" width="100px" src="./images/1git.png" />
-<br>
+<img align="left" alt="Git" width="110px" src="./images/1git.png" />
+<div/>
 
 ### My stack and tools
 
