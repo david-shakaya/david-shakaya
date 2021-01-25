@@ -60,27 +60,26 @@
 
 📌 Just click on the logo and you will be taken to the project repository.
 
-<a src="https://github.com/david-shakaya/change-theme">
+<a href="https://github.com/david-shakaya/change-theme">
 <img align="left" alt="game-air" width="110px" src="./images/game-air.png"
 title="game Air balls" />
 <a/>
 
-<a src="https://github.com/david-shakaya/game-dice-click">
+<a href="https://github.com/david-shakaya/game-dice-click">
 <img align="left" alt="game-frog" width="110px" src="./images/game-frog.png"
  title="game Frog" />
 <a/>
 
-<a src="https://github.com/david-shakaya/shopping-cart-Vanilla-js">
+<a href="https://github.com/david-shakaya/shopping-cart-Vanilla-js">
 <img align="left" alt="shopping cart" width="110px" src="./images/2q.png" title="Shopping cart application"/>
 <a/>
 
-<a src="https://github.com/david-shakaya/goit-js-hw-13-image-finder">
+<a href="https://github.com/david-shakaya/goit-js-hw-13-image-finder">
 <img align="left" alt="IMG finder" width="110px" src="./images/q4.png" title="Image search application" />
 <a/>
 
-<a src="https://github.com/david-shakaya/-goit-markup-hw-08">
+<a href="https://github.com/david-shakaya/-goit-markup-hw-08">
 <img align="left" alt="Web site" width="110px"  src="./images/q6.png"
  title="Web site" />
-
 <a/>
 <!-- Image search application -->
