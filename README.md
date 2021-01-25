@@ -41,12 +41,19 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <br>
 
+<div id="flex">
 <a href="(https://github.com/david-shakaya/github-readme-stats">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=david-shakaya&show_icons=true" />
 </a>
 <a href="(https://github.com/david-shakaya/github-readme-stats">
 <img  width="335px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david-shakaya&layout=compact" />
 </a>
+<div/>
+
+<style>
+#flex {display: flex}
+
+</style>
 
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
