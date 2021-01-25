@@ -33,7 +33,7 @@
 
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
 
-<img align="left" alt="MySQL" width="32px" src="https://ag.digital/wp-content/uploads/2019/08/Group-5.png" />
+<img align="left" alt="MySQL" width="32px" src="https://cdn.idbi.ru/images/articles/1/620/868972/890.png" />
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
