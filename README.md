@@ -1,7 +1,7 @@
 ## I'm a frontend junior developer
 
 - 🔭 I’m currently working on many interesting things
-- 📫 How to reach me: devidoz666@gmail.com
+- 📫 How to reach me: david.shakaya.t@gmail.com
 
 ### My stack and tools
 
