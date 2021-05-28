@@ -27,9 +27,17 @@
 
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<img align="left" alt="GitHub" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu3Fs02CRGXWt5f2oacau6fRRjlQQuGuiguICdvSTL01hFtphJpTsG7Ye77rL-gReqG4&usqp=CAU" />
+
+<img align="left" alt="jira" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-37zvIv_B5boKsLp6jyavB6h5Mnu305v4B3TIoYdk4ShEUNnrsIlcSGHTegWbRfM2xQ&usqp=CAU" />
+
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <br>
+<img align="left" alt="Terminal" width="32px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/c/c8/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg/1024px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_PhpStorm.svg.png" />
+
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br>
 
 ### My statistics
 
