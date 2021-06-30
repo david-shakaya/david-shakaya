@@ -1,4 +1,4 @@
-## I'm a frontend junior developer
+## I'm a frontend developer
 
 - 🔭 I’m currently working on many interesting things
 - 📫 How to reach me: david.shakaya.t@gmail.com
